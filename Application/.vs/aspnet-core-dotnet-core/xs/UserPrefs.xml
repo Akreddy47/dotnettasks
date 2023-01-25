@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{8BD3CF50-CAE9-419F-A933-C0EFADBE7731}|Default">
+  <MonoDevelop.Ide.ItemProperties.aspnet-core-dotnet-core PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench />
+</Properties>
